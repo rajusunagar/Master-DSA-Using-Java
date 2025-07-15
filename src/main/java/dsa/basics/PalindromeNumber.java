@@ -1,7 +1,7 @@
 package dsa.basics;
 /*
 A given number can be said to be palindromic if the reverse of the given number is the same as that of a given number.
-For example, 121 is palindromic because its reverse is also 121.
+For example: 121 is palindromic because its reverse is also 121.
 */
 
 public class PalindromeNumber {
